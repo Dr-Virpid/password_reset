@@ -8,6 +8,4 @@ To link your project to the views that uses it in your
 url patterns add a path that points to "django.contrib.auth.urls"
 i.e path('accounts/', include('django.contrib.auth.urls'))
 For more information visit the official django documentation
-Or visit 
-https://learndjango.com/tutorials/django-password-reset-tutorial
-
+Or visit [this tutorial](https://learndjango.com/tutorials/django-password-reset-tutorial)
